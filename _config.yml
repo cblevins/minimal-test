@@ -1,6 +1,10 @@
-title: Cameron Blevins Test Site
+title: Student Portfolio
 logo: /assets/img/logo.png
-description: Haning out with Dale at Copper Door
+description: Showcase of student projects and achievements
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+
+collections:
+  projects:
+    output: true
